@@ -1,0 +1,38 @@
+# The git repository itself
+.cfg
+
+# History files and such
+.bash_history
+.zsh_sessions
+.zsh_history
+.viminfo
+
+# VSCode has its own way of syncing settings across devices
+.vscode
+
+# The .oh-my-zsh directory is its own repository
+.oh-my-zsh
+
+# Other stuff?
+/.cache
+/.local
+/.redhat
+/.zcompdump*
+/bin
+
+# Standard OSX folders
+/.CFUserTextEncoding
+/.DS_Store
+/.Trash
+/Desktop
+/Documents
+/Downloads
+/Library
+/Movies
+/Music
+/Pictures
+/Public
+
+# My standard work folders
+/src
+/demo
